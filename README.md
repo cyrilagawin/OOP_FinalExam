@@ -55,13 +55,6 @@ The database is strictly normalized and contains [Number, e.g., 5] interconnecte
 
 
 
-| Dashboard | Record Management |
-| :---: | :---: |
-| ![Dashboard](link-to-dashboard-image.png) | ![Management](link-to-management-image.png) |
-| **Transaction Frame** | **Search & View** |
-| ![Transaction](link-to-transaction-image.png) | ![Search](link-to-search-image.png) |
-
-
 
 
 
